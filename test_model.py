@@ -15,7 +15,7 @@ from keras.preprocessing import image
 
 def load_images():	
 
-	path="/home/fou/Desktop/TestImg/"
+	path="path/to/CNN_keras_Carabidae_pronotum/TestImg/"
 	
 	matrixs=[]
 	y=[]
